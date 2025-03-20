@@ -1,0 +1,5 @@
+3주차
+1교시
+IDE파이참 git bash 터미널 연결
+settings -> tools -> terminal -> shellpath
+bash 선택
