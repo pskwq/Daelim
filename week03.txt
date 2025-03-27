@@ -3,3 +3,13 @@
 IDE파이참 git bash 터미널 연결
 settings -> tools -> terminal -> shellpath
 bash 선택
+
+git 명령어
+remote -v
+
+.gitignore 이해 
+
+2교시
+소수 판정 프로그램
+clone
+remote remove w
