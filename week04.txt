@@ -1,0 +1,8 @@
+4주차
+1교시
+conglict해결방법
+
+git명령어
+log --oneline
+
+linux명령어
